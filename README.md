@@ -4,10 +4,13 @@
 # Description
 
 <ul>
-  <li>
-     <ol>
-    <li>welcome to Employee Management system Application</li>
-     </ol>
-  </li>
- 
+    <li>welcome to Employee Management system Application</li> 
 </ul>
+<ol>
+  <li>Add Employee</li>
+  <li>View Employee</li>
+  <li>Update Employee</li>
+  <li>Delete Employee</li>
+  <li>View all Employee</li>
+  <li>Exit</li>
+</ol>
